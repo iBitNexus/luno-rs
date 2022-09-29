@@ -1,6 +1,8 @@
 [package]
 name = "luno_rs"
+luno_rs = "0.1.1"
 version = "0.1.1"
+luno_rs = { git="https://github.com/borngraced/luno-rs"}
 authors = ["Samuelonoja <Samuelonoja970@gmail.com>"]
 edition = "2021"
 description = "The Async Rust Luno API brings the world of Bitcoin and Ethereum to your doorstep."
